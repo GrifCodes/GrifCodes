@@ -3,9 +3,7 @@
 ## 👨‍💻 Information Technology Projects:
 
 ### osTicket (Help Desk Ticketing System)
-- **osTicket: [Prerequisites and Installation](https://github.com/GrifCodes/osticket-prereqs#osticket-prereqs)
-- **osTicket: Post-Installation Configuration**
-- **osTicket: Ticket Lifecycle Examples**
+- **osTicket: [Installation & Beyond](https://github.com/GrifCodes/osticket-prereqs#osticket-prereqs)
 
 ### Microsoft Azure
 - **Configuring On-premises Active Directory within Azure VMs**
