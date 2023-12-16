@@ -1,7 +1,7 @@
-# Hi, I'm Logan Gonzales, an [IT Professional](https://www.linkedin.com/in/coderoad/) ☺
+![GithubBanner](https://github.com/GrifCodes/GrifCodes/assets/150773923/1fc41b30-0b3b-4626-b9b6-c7779b186353)
 
-## 👨‍💻 Information Technology Projects:
 
+## 🖲️TechVentures Compiled:
 ### osTicket (Help Desk Ticketing System)
 - [Installation & Beyond](https://github.com/GrifCodes/osticket-prereqs#osticket-prereqs)
 
@@ -10,5 +10,5 @@
 
 
 
-## 🤳 Connect with me:
-[<img align="left" alt="Logan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/coderoad/)
+## Connect with me:
+[<img align="left" alt="Logan | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="vertical-align: middle;"/>](https://www.linkedin.com/in/coderoad/)
