@@ -1,4 +1,5 @@
-![GithubBanner](https://github.com/GrifCodes/GrifCodes/assets/150773923/1fc41b30-0b3b-4626-b9b6-c7779b186353)
+![GithubBanner](https://github.com/GrifCodes/GrifCodes/assets/150773923/fb396ed2-a4f4-4dff-a318-d0af33c3adfb)
+
 
 
 ## 🖲️TechVentures Compiled:
